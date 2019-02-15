@@ -7,11 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Grant Horner",
-  "license": "ISC",
-  "dependencies": {
-    "pg": "^7.8.0",
-    "pg-hstore": "^2.3.2",
-    "sequelize": "^4.42.0"
-  }
+  "author": "",
+  "license": "ISC"
 }
